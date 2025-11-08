@@ -1,4 +1,4 @@
-# litrature-to-easy-reading
+# easy-literature-agents
 
 ## 概要
 文学作品（中学・高校教科書に載っている短編作品を想定）を小学校1-2年生向けにリライトする際のマルチエージェントの試作です。
@@ -8,10 +8,10 @@
 個人ではじめるマルチAIエージェント入門 〜LangChain × LangGraphでアイデアを形にするステップ〜
 
 - 発表概要: https://tokai.pycon.jp/2025/#session-talk-2
-- スライド: https://speakerdeck.com/komofr/pyconminitokai2025
+- スライド: https://speakerdeck.com/komofr/pycon-mini-tokai
 
 ## 出力サンプル
-[output_samples](https://github.com/komo-fr/easy-literature-agents/output_samples)フォルダに、出力結果のサンプルを置いています。
+[output_samples](https://github.com/komo-fr/easy-literature-agents/tree/main/output_samples)フォルダに、出力結果のサンプルを置いています。
 
 ## エージェントの構成
 
