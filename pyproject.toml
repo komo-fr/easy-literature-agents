@@ -1,0 +1,22 @@
+[tool.ruff]
+# 対象Pythonバージョン
+target-version = "py313"
+
+# 行の最大長
+line-length = 100
+
+exclude = [
+    ".gitignore",
+    ".venv",
+    "venv",
+    ".env",
+    "__pycache__",
+    "build",
+    "dist",
+    "input",
+    "output",
+]
+
+lint.select = ["C9", "E", "F", "W", "I"]
+
+lint.ignore = ["E501"]
